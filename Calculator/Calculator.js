@@ -46,7 +46,32 @@ for (let i=0; i < buttonValues.length; i++) { //here we're going to iterate thou
     button.addEventListener("click", function() {
         //check if it was an operator butto
         if (rightSymbols.includes(value)){
+            if (value == "=") {
+                if (A != null) {
+                    B = dispaly.value
+                    let numA = Number(A)
+                    let numB = Number(B)
 
+                    if (operator == "÷") {
+                        dispaly.value = numA/numB
+                    }
+                    else if (operator == "×") {
+                        dispaly.value = numA*numB
+                    }
+                    else if (operator == "-") {
+                        dispaly.value = numA - numB
+                    }
+                    else if (operator == "+") {
+                        dispaly.value = numA + numB
+                    }
+                    clearAll()
+                }
+            }
+            else {
+                operator = value
+                A = dispaly.value
+                dispaly.value = ""
+            }
         }
         else if (topSymbols.includes(value)) {
             if (value == "AC") {
