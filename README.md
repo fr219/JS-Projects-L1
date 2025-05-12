@@ -16,4 +16,6 @@ More projects coming soon!
 - Improve my front-end skills.
 - Build a portfolio I can be proud of.
 
-Stay tuned for more!
+
+
+🚀 Stay tuned for more!
