@@ -1,6 +1,8 @@
-# 🌟 JavaScript Learning Projects
+<p align="center">
+  <img src="banner.png" alt="My JS Practice Projects" />
+</p>
 
-Welcome! This repository contains a collection of small projects I'm building as I learn JavaScript. Each folder includes its own mini-project, source code, and a README file explaining what it does.
+Welcome✨! This repository contains a collection of small projects I'm building as I learn JavaScript. Each folder includes its own mini-project, source code, and a README file explaining what it does.
 
 ## 📁 Projects
 
