@@ -5,9 +5,12 @@ This is a simple, fully functional calculator built with HTML, CSS, and JavaScri
 ## 🎥 Tutorial Credit
 
 This project was created by following this YouTube tutorial:  
-[📺 Watch on YouTube – iOS Calculator UI & Logic](https://youtu.be/KM8PIiqq97c?si=uL0psfhkqYuwDko8)
+<div align="center">
 
-Big thanks to the creator for the clear and helpful guide!
+[![Build a Calculator with JavaScript](https://ytcards.demolab.com/?id=KM8PIiqq97c&title=Build+a+Calculator+with+JavaScript&lang=en&timestamp=1668729600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=400&border_radius=10&duration=738 "Build a Calculator with JavaScript")](https://www.youtube.com/watch?v=KM8PIiqq97c)
+
+</div>
+✨ Big thanks to [Kenny Yip Coding] for the clear and helpful tutorial!
 
 
 ## 🔧 Features
